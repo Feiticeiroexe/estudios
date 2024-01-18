@@ -1,0 +1,7 @@
+C:\Users\Iago\Documents\GitHub\estudios\Matriz_2d\Matriz_2d\bin\Debug\Matriz_2d.exe.config
+C:\Users\Iago\Documents\GitHub\estudios\Matriz_2d\Matriz_2d\bin\Debug\Matriz_2d.exe
+C:\Users\Iago\Documents\GitHub\estudios\Matriz_2d\Matriz_2d\bin\Debug\Matriz_2d.pdb
+C:\Users\Iago\Documents\GitHub\estudios\Matriz_2d\Matriz_2d\obj\Debug\Matriz_2d.csproj.AssemblyReference.cache
+C:\Users\Iago\Documents\GitHub\estudios\Matriz_2d\Matriz_2d\obj\Debug\Matriz_2d.csproj.CoreCompileInputs.cache
+C:\Users\Iago\Documents\GitHub\estudios\Matriz_2d\Matriz_2d\obj\Debug\Matriz_2d.exe
+C:\Users\Iago\Documents\GitHub\estudios\Matriz_2d\Matriz_2d\obj\Debug\Matriz_2d.pdb
