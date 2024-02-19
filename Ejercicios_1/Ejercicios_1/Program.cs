@@ -237,7 +237,30 @@ namespace Ejercicios_1
             }
             else if(numEj == 10)
             {
-
+                string pedro = "Pedro Jimenez*14Julio1990?2500";
+                string Maria = "Maria Benitez*9070!06Agosto1998";
+                string salarioPedro = pedro.Split('?')[1];
+                string salarioMaria = Maria.Split('*', '!')[1];
+                int salarioPedro2, salarioMaria2;
+                salarioPedro2 = Convert.ToInt32(salarioPedro);
+                salarioMaria2 = Convert.ToInt32(salarioMaria);
+                if(salarioPedro2 >= 1000)
+                {
+                    Console.WriteLine("El salario de Pedro es mayor que 1000, es correcto.");
+                }
+                else
+                {
+                    Console.WriteLine("El salario de Pedro es menor que 1000, es incorrecto.");
+                }
+                if (salarioMaria2 >= 1000)
+                {
+                    Console.WriteLine("El salario de Maria es mayor que 1000, es correcto.");
+                }
+                else
+                {
+                    Console.WriteLine("El salario de Maria es menor que 1000, es incorrecto.");
+                }
+                Console.ReadLine();
             }
         }
     }
