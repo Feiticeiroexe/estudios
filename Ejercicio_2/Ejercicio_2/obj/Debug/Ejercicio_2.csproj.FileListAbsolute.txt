@@ -1,0 +1,7 @@
+C:\Users\feiti\OneDrive\Documentos\GitHub\estudios\Ejercicio_2\Ejercicio_2\bin\Debug\Ejercicio_2.exe.config
+C:\Users\feiti\OneDrive\Documentos\GitHub\estudios\Ejercicio_2\Ejercicio_2\bin\Debug\Ejercicio_2.exe
+C:\Users\feiti\OneDrive\Documentos\GitHub\estudios\Ejercicio_2\Ejercicio_2\bin\Debug\Ejercicio_2.pdb
+C:\Users\feiti\OneDrive\Documentos\GitHub\estudios\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.csproj.AssemblyReference.cache
+C:\Users\feiti\OneDrive\Documentos\GitHub\estudios\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.csproj.CoreCompileInputs.cache
+C:\Users\feiti\OneDrive\Documentos\GitHub\estudios\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.exe
+C:\Users\feiti\OneDrive\Documentos\GitHub\estudios\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.pdb
